@@ -1,4 +1,4 @@
-# AD7735 Auto- ja laivaliikenne analysointi
+# Auto- ja laivaliikenteen analysointi
 
 Tämä projekti tehty Jamkissa kesällä 2023.
 
